@@ -1,30 +1,47 @@
-# Dragon Bot 2.0 | Official Landing Page
+# 🐉 Dragon Bot 2.0 | Official Landing Page
 
 The high-performance, SEO-optimized landing page for **Dragon Bot 2.0**—the ultimate automation suite for Clash of Clans.
+Designed for users to add the bot to their server & act as a guide.
 
-[Live Site](https://dragon-bot-website.vercel.app/) | [Organization Profile](https://github.com/Dragon-Bot-CoC)
+[**Live Demo**](https://dragon-bot-website.vercel.app/) • [**Organization Profile**](https://github.com/Dragon-Bot-CoC)
 
 ---
 
 ## 🚀 Tech Stack
 
-This site is built to get the bot to your server fast and act as a guide:
-
-* **Framework:** [Astro 6.0](https://astro.build/) (Island Architecture)
-* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-* **Deployment:**[Vercel] (https://vercel.com/)
-* **Language:** TypeScript
+* **Framework:** Astro 6.0
+* **Styling:** Tailwind CSS
+* **Animations:** Tailwind Merge & Native CSS
+* **Deployment:** Vercel
+* **Language:** TypeScript 
 
 ## ✨ Key Features
 
-- **Live System Health:** Real-time telemetry monitoring for Bot heartbeat and API latency.
-- **SEO Optimized:** Meta-tags and structured data for maximum visibility in the CoC community.
-- **Support-First Pricing:** A community-focused "Supporter" tier integrated with Stripe (coming soon).
+* **Live System Health:** Real-time telemetry monitoring displaying Bot heartbeat and API response latency.
+* **SEO Optimized:** Comprehensive OpenGraph meta-tags and structured data for visibility in search engines and Discord embeds.
+* **Responsive Design:** Fully fluid layouts designed for mobile clan leaders and desktop power users.
+* **Support-First Pricing:** A community-focused "Supporter" tier integrated with Stripe (coming soon).
 
 ## 🛠️ Local Development
 
-Get the environment running on your local machine:
+Follow these steps to set up the project environment on your local machine.
 
-1. **Clone the repo:**
+### **Prerequisites**
+* **Node.js**: `v18.17.1` or higher
+
+
+### **Setup Instructions**
+1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Dragon-Bot-CoC/Dragon-Bot-2.0-Website.git](https://github.com/Dragon-Bot-CoC/Dragon-Bot-2.0-Website.git)
+   git clone https://github.com/Dragon-Bot-CoC/Dragon-Bot-2.0-Website.git
+
+2. **Install Dependencies:**
+   ```bash
+   npm install
+
+3. **Start the Dev Server:**
+   ```bash
+   npm run dev
+
+## Contributors:
+[**Keepas**](https://github.com/Keepas3) - Lead Developer
