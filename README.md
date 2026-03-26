@@ -46,4 +46,5 @@ Follow these steps to set up the project environment on your local machine.
 ## Contributors:
 [**Keepas**](https://github.com/Keepas3) - Lead Developer
 
-Developed under the **Dragon-Bot-CoC** Organization.
+Developed under the **Dragon-Bot-Dev** Organization.
+This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.
